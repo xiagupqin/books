@@ -10,3 +10,4 @@
 # Python
 - [Python源码剖析](./Python源码剖析.pdf)
 - [Python高级编程(第2版)](./Python高级编程（第2版）.azw3)
+- [流畅的Python](./流畅的Python.mobi)
