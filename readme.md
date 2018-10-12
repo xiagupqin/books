@@ -11,3 +11,6 @@
 - [Python源码剖析](./Python源码剖析.pdf)
 - [Python高级编程(第2版)](./Python高级编程（第2版）.azw3)
 - [流畅的Python](./流畅的Python.mobi)
+
+# 数据库
+- [高性能MySQL(第3版)](./高性能MySQL(第3版).azw3)
